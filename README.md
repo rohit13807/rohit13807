@@ -1,7 +1,7 @@
 # Hi there I'm Rohit Kumar 👋
 
 ## 💻 About Me
-# I'm a dynamic Full Stack Web Developer with over 9 years of experience in leading technologies. I specialize in creating seamless and engaging web experiences using ReactJS, Angular, TypeScript, Node.js, and more. My expertise spans from front-end frameworks to back-end development, with a strong focus on database management using MySQL and MongoDB.
+### I'm a dynamic Full Stack Web Developer with over 9 years of experience in leading technologies. I specialize in creating seamless and engaging web experiences using ReactJS, Angular, TypeScript, Node.js, and more. My expertise spans from front-end frameworks to back-end development, with a strong focus on database management using MySQL and MongoDB.
 
 ##  🌱 What I Do ###  
 
