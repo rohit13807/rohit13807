@@ -28,6 +28,17 @@
 
 ### 🔹 Leveraging technology to solve real-world problems and create innovative solutions.
 
+| Category             | Technologies                                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Programming          | 💻 ReactJS, Angular, TypeScript, RxJS, Redux, Node.js, Express, JavaScript (ES6), HTML5, Flex, Bootstrap, PWA, React Hooks, CSS, SCSS, UI/UX          |
+| Payment Gateway      | 💳 Stripe, Paypal                                                                                                       |
+| Databases            | 🛢️ MongoDB, MySQL                                                                                                       |
+| Cloud/Web Server     | 🌐 AWS, Azure, Apache                                                                                                   |
+| Project Management   | 📊 Jira, Trello                                                                                                         |
+| CI/CD                | 🚀 GitHub, Jenkins, OpenShift                                                                                           |
+| Version Control      | 🔄 GIT                                                                                                                   |
+| Restful API Tool     | 🛠️ Swagger, Postman                                                                                                     |
+
 
 ##  📫 Get in Touch  ### 
 ### 🎯 LinkedIn: https://www.linkedin.com/in/rohit807/
