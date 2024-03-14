@@ -5,9 +5,7 @@ I'm a dynamic Full Stack Web Developer with over 9 years of experience in leadin
 
 ###  🌱 What I Do ###  
 🔹 Proficient in Unified Modeling Language (UML) and object-oriented programming (OOP) design.
-
 🔹 Skilled in all phases of Software Development Life-cycle (SDLC), from conception to deployment.
-
 🔹 Experience in both Object Oriented and Functional Programming languages.
 🔹 Strong background in System Integration Testing and Unit Testing with agile methodology.
 🔹 Design architecture patterns for client-side and server-side environments.
