@@ -37,8 +37,8 @@
 | Databases            | 🛢️ MongoDB, MySQL                                                                                                       |
 | Cloud/Web Server     | 🌐 AWS, Azure, Apache                                                                                                   |
 | Project Management   | 📊 Jira, Trello                                                                                                         |
-| CI/CD                | 🚀 GitHub, Jenkins, OpenShift                                                                                           |
-| Version Control      | 🔄 GIT                                                                                                                   |
+| CI/CD                | 🚀 Jenkins, OpenShift                                                                                           |
+| Version Control      | 🔄 GIT, GitHub                                                                                                                 |
 | Restful API Tool     | 🛠️ Swagger, Postman                                                                                                     |
 
 
